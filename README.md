@@ -21,6 +21,7 @@ Our resources are organized into different categories to help you explore and fi
 - [Web Development](./Web%20Development)
 - [Data Science](./Data%20Science)
 - [Cybersecurity](./Cybersecurity)
+- [DevSecOps](./DevSecOps)
 - [Entrepreneurship](./Entrepreneurship)
 - [Leadership](./Leadership)
 
