@@ -11,20 +11,10 @@ Welcome to the Coding and Programming category of &TECH Resources. This section 
 
 Explore the following resources to advance your coding and programming knowledge:
 
-1. [Title of Resource 1](./Resource%20Folder/Resource1.md)
-   - **Description:** A brief summary of the resource's content and its relevance to coding and programming.
-   - **Author:** [Author's Name](Author's Profile)
-   - **Date:** Publication date or last update date
-
-2. [Title of Resource 2](./Resource%20Folder/Resource2.md)
-   - **Description:** A brief summary of the resource's content and its relevance to coding and programming.
-   - **Author:** [Author's Name](Author's Profile)
-   - **Date:** Publication date or last update date
-
-3. [Title of Resource 3](./Resource%20Folder/Resource3.md)
-   - **Description:** A brief summary of the resource's content and its relevance to coding and programming.
-   - **Author:** [Author's Name](Author's Profile)
-   - **Date:** Publication date or last update date
+1. [freeCodeCamp](./Resources/freeCodeCamp.md)
+   - **Description:** An interactive, online coding and learning platform.
+   - **Author:** [freeCodeCamp Team](https://www.freecodecamp.org/about)
+   - **Date:** Ongoing
 
 ...
 
